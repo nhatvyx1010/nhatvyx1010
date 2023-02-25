@@ -1,4 +1,6 @@
-### Hi there 👋
+   Hi there 👋
+· I'm Nguyen Pham Nhat Vy! ✨
+· I’m student at Da Nang University - University of Science and Technology! 🌱
 
 <!--
 **nhatvyx1010/nhatvyx1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
